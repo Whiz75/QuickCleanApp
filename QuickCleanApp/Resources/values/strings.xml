@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuickCleanApp</string>
+    <string name="action_settings">Settings</string>
+
+	<!--navigation items-->
+	<string name="nav_home">Home</string>
+	<string name="nav_history">History</string>
+	<string name="nav_profile">Profile</string>
+	<string name="nav_report">Report</string>
+</resources>

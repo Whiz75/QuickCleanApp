@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+	<dimen name="default_corner_radii">16dp</dimen>
+	<dimen name="title_padding">8dp</dimen>
+	<dimen name="internal_padding">10dp</dimen>
+</resources>
